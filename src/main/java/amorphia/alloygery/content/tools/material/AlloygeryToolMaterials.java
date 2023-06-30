@@ -254,7 +254,7 @@ public class AlloygeryToolMaterials
 				.build());
 
 		DIAMOND = register(new AlloygeryToolMaterial.AlloygeryToolMaterialBuilder("diamond")
-				.color(15132415)
+				.color(13564146)
 				.repairIngredientFromTag("c:diamonds")
 				.upgradeIngredientFromTag("c:diamonds")
 				.toolProperty().forPart(ToolPartType.HEAD).operation(ToolPropertyOperation.BASE)
