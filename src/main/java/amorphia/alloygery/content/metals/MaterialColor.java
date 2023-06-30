@@ -10,7 +10,7 @@ public enum MaterialColor
 	GOLD("gold", 16573743),
 	EMERALD("emerald", 1564002),
 	ANTANIUM("antanium", 14329677),
-	DIAMOND("diamond", 3402699),
+	DIAMOND("diamond", 12377811),
 	STEEL("steel", 4408907),
 	NETHERITE("netherite", 5192766),
 	NICKEL("nickel", 6314062),
